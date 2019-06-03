@@ -1,5 +1,5 @@
-# ciShop
-This is a simple ecommerce application based on codeigniter framework. It provides a base to further develop ecommerce using codeigniter.
+# RiskLab
+This is a simple admin complaint application in lab computer based for controller codeigniter framework. It provides a base to further develop admin complaint using codeigniter.
 
 ### Installation instructions:
 - Clone/download the repo.
